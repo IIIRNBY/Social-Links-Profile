@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [--Will appear later--]
+- Live Site URL: [https://iiirnby.github.io/Social-Links-Profile/]
 
 ## My process
 
@@ -45,5 +45,5 @@ Improve your understanding of "where, how, and when" to use certain units of mea
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [https://iiirnby.github.io/Social-Links-Profile/]
 - Frontend Mentor - [@IIIRNBY]
